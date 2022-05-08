@@ -1,8 +1,10 @@
 <h1 align="center">Hello ALll 👋,Welcome to my Github Profile I'm Tawadros Gamal Anwar</h1>
-<h3 align="center">A passionate Data Scientist from Egypt</h3>
-<h3 align="left">A Machine learning Engineer and a Data Scientist, with experience of over 1 and a half years.
-Specialized in the field of Artificial Intelligence and its various applications, and more capable of implementing my knowledge using TensorFlow, NLTK, OpenCV, and more
-      </h3>
+<h2 align="center">Data Scientist from Egypt</h3>
+<h3 align="left">A passionate Data Scientist with a Vision for a better world with the help of Data and AI 
+excited to put AI in every field in life to make the best use of what we have of data in order to turn it into a flourishing field and make the lives of everyone easier
+Skilled in machine learning, statistics, problem-solving, data visualization, GCP, AWS, and Python
+interested in data science, AI, ML, and Deep Learning
+Always developing my skills and growing professionally. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tawadros312&label=Profile%20views&color=0e75b6&style=flat" alt="tawadros312" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawadros312" alt="tawadros312" /></a> </p>
